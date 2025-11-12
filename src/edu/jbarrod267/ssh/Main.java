@@ -17,6 +17,8 @@ public class Main {
 		for (int j = 1; j <= 1; j++) {
 			int num2 = random.nextInt(9) + 1;
 			System.out.println("Numero complementario: " + num2);
+
+			System.out.println("¡Buena suerte en el sorteo!");
 		}
 	}
 }
